@@ -1,6 +1,6 @@
 {
   "name": "ign",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command line ignore file created",
   "url": "http://cobaimelan.github.com",
   "main": "./bin",
