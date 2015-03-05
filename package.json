@@ -1,15 +1,9 @@
 {
   "name": "ign",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Command line ignore file created",
-  "url": "http://cobaimelan.github.com",
-  "main": "./bin",
   "bin": {
-    "ign": "./bin/ign"
-  },
-  "directories": {
-    "test": "./test",
-    "bin": "./bin"
+    "ign": "./bin/ign.js"
   },
   "dependencies": {
     "commander": ">=2.1.0",
@@ -17,10 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cobaimelan/ign"
-  },
-  "scripts": {
-    "test": "./bin/ign -help"
+    "url": "https://github.com/ayhankuru/ign"
   },
   "keywords": [
     "CLI",
@@ -30,8 +21,7 @@
   "author": "Ayhan Kuru <ayhankuru@yandex.com.tr>",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/cobaimelan/ign/issues"
+    "url": "https://github.com/ayhankuru/ign/issues"
   },
-  "homepage": "https://github.com/cobaimelan/ign",
-  "devDependencies": {}
+  "homepage": "https://github.com/ayhankuru/ign"
 }
